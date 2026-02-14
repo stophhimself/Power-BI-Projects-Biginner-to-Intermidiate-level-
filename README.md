@@ -75,8 +75,7 @@ Power-BI-Portfolio/
 
 ---
 
-## 📈 Learning Philosophy
-> “I don’t wait to be ready. I build first, then refine. Every dashboard teaches me something new — about data, business, and myself.”
+
 
 This portfolio is not just a collection of files — it’s a **learning journal in action**, showing progression from basic charts to integrated, multi-tab, cross-functional reports.
 
@@ -95,7 +94,7 @@ This portfolio is not just a collection of files — it’s a **learning journal
 3. Explore the data model, DAX measures, and report pages  
 4. Use as inspiration for your own analytics journey!
 
-> 💡 **Tip**: Publish your favorite dashboards to **Power BI Service** and embed them in your personal portfolio website!
+
 
 ---
 
