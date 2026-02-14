@@ -20,27 +20,26 @@
 
 ## 📁 Repository Structure
 Power-BI-Portfolio/
-├── PB01_Amazon-Prime-Video/ # Content catalog analysis
-├── PB02_FIFA-World-Cup/ # Historical tournament insights
-├── PB03_IBM-Employee-Demographics/ # HR workforce analytics
-├── PB04_120-Years-Olympics/ # Athlete & medal trends
-├── PB05_Tripadvisor-Hotels/ # Hospitality & traveler behavior
-├── PB06_Pokemon-Stats/ # Gaming product analytics
-├── PB07_Adidas-Sales/ # Retail performance by region
-├── PB08_Cars-Sales/ # Automotive pricing & demand
-├── PB09_Uber-Rides/ # Mobility & gig economy ops
-├── PB10_Sales-PB13/ # Global retail (Contoso-style)
-├── PB11_Lego-Sales/ # Product catalog & premium sets
-├── PB12_Flight-Status/ # Aviation delays & cancellations
-├── PB13_US-Candy-Distributor/ # FMCG sales, factories, targets
-├── PB14_Adventure-Works/ # Enterprise B2C analytics
-├── PB15_Coca-Cola-Sales/ # Beverage brand profitability
-├── PB16_Sales-Management-HR/ # Telecom: Sales + HR integration
-├── PB17_Coca-Cola-Sales-Dashboard/ # (Duplicate or refined version)
-├── PB18_Adventure-Works-PB17/ # (Refined enterprise report)
-├── PB19_Sales-RH/ # Moroccan telecom HR + sales
-├── PB20_US-Candy-Distributor-PB16/ # (Final polished version)
-└── README.md # This file
+├── PB01_Data-Professional-Survey/        # Industry trends & demographics
+├── PB02_Amazon-Prime-Movies-and-TV/      # Content catalog analysis (movies vs TV)
+├── PB03_World-Cup-1930-2014/            # Historical FIFA tournament insights
+├── PB04_IBM-Employee-Demographics/       # HR workforce analytics
+├── PB05_Netflix-Dashboard/               # Streaming content & genre trends
+├── PB06_Squid-Game/                      # Pop culture & viewership analysis
+├── PB07_120-Years-Olympics/              # Athlete, medal & sport trends (1896–2016)
+├── PB08_Tripadvisor-Hotels/              # Hospitality & traveler behavior
+├── PB09_Pokemon-Stats/                   # Gaming product & type analytics
+├── PB10_Adidas-Sales/                    # Retail performance by region/product
+├── PB11_Cars-Sales/                      # Automotive pricing, demand & color trends
+├── PB12_Uber-Rides/                      # Mobility & gig economy operations
+├── PB13_Sales-Dashboard/                 # Global retail (Contoso-style sales)
+├── PB14_Lego-Sales/                      # Product catalog & premium set analysis
+├── PB15_Flight-Status/                   # Aviation delays, cancellations & causes
+├── PB16_Factory-Candy-Products/          # US Candy Distributor: sales, factories, targets
+├── PB17_Adventure-Works/                 # Enterprise B2C sales & customer analytics
+├── PB18_Coca-Cola-Sales/                 # Beverage brand profitability & geo-mapping
+├── PB19_Sales-Management-RH/             # Moroccan telecom: Sales + HR integration
+└── README.md                             # This master portfolio file
 
 
 > 💡 **Each folder contains**:  
